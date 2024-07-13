@@ -1,4 +1,4 @@
-#include "../maze.h"
+#include "../themaze.h"
 
 /**
  * count_lines_in_file : Counts number of lines in a file
